@@ -1,0 +1,13 @@
+{
+  "name": "Dotline",
+  "short_name": "Dotline",
+  "description": "Nối các chấm cùng màu, lấp đầy bảng, không cắt nhau.",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F5F7",
+  "theme_color": "#F4F5F7",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
